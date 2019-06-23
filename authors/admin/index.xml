@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mario D. Molina</title>
+    <link>https://mariomolinam.github.io/authors/admin/</link>
+    <description>Recent content on Mario D. Molina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://mariomolinam.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mariomolinam.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariomolinam.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD candidate in the Department of Sociology at Cornell University. My research focuses on social hierarchies, how individuals perceive their legitimacy, and how they affect social cohesion. I am also broadly interested in the use of computational methods to study interesting sociological questions (e.g. online experiments, machine learning, natural language processing).&lt;/p&gt;
+
+&lt;p&gt;You can download &lt;a href=&#34;https://mariomolinam.github.io/files/cv.pdf&#34;&gt;my CV here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
