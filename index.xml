@@ -10,5 +10,53 @@
 	    <atom:link href="https://mariodmolina.com/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://mariodmolina.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariodmolina.com/cv/</guid>
+      <description>&lt;p&gt;You can download &lt;a href=&#34;https://mariodmolina.com/files/cv.pdf&#34;&gt;my CV here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://mariodmolina.com/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariodmolina.com/publication/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;published-work&#34;&gt;Published Work&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario D.&lt;/strong&gt;, Mauricio Bucca, &amp;amp; Michael W. Macy (2019), &amp;ldquo;It is not just how the game is played, it is whether you win or lose&amp;rdquo;. (Forthcoming at &lt;em&gt;Science Advances&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario&lt;/strong&gt; &amp;amp; Filiz Garip (2019), &amp;ldquo;Machine learning for sociology&amp;rdquo;, &lt;em&gt;Annual Review of Sociology&lt;/em&gt;, vol. 45. (&lt;a href=&#34;https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-073117-041106&#34; target=&#34;_blank&#34;&gt;click here&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario D.&lt;/strong&gt;, Lisha Liu, Hakan Holm, &amp;amp; Victor Nee, &amp;ldquo;Social norms and spillovers into cooperation with strangers&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Garip, Filiz &amp;amp; &lt;strong&gt;Mario D. Molina&lt;/strong&gt;, &amp;ldquo;Predictive machine learning models for exploring environment and linkages in historical Mexico-US. flows&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario D.&lt;/strong&gt;, &amp;ldquo;Resting on your laurels? Status dynamics and individual effort in a large online community&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Drohout, Lucas, &lt;strong&gt;Mario D. Molina&lt;/strong&gt;, &amp;amp; Filiz Garip, &amp;ldquo;Identity and relational structure among immigrant adolescents in Western Europe&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Asad, Asad, Neil Jr. Lewis, &amp;amp; &lt;strong&gt;Mario D. Molina&lt;/strong&gt;, &amp;ldquo;Profiles of psychological distress among noncitizens in the United States, 2011-2018&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario D.&lt;/strong&gt; &amp;amp; Filiz Garip, &amp;ldquo;Network Amplification&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
