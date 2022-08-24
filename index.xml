@@ -11,41 +11,29 @@
     
     
     <item>
-      <title>Curriculum Vitae</title>
-      <link>https://mariodmolina.com/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mariodmolina.com/cv/</guid>
-      <description>&lt;p&gt;You can download &lt;a href=&#34;https://mariodmolina.com/files/cv.pdf&#34;&gt;my CV here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
+      <title></title>
       <link>https://mariodmolina.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mariodmolina.com/research/</guid>
       <description>
 
-&lt;hr /&gt;
-
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mario D. Molina&lt;/strong&gt;, Nancy Chau, Amanda Rodewald, and Filiz Garip, &amp;ldquo;How to model the weather-migration link: A machine-learning approach to variable selection in the Mexico-U.S. context&amp;rdquo;. (&lt;em&gt;Conditionally accepted&lt;/em&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mario D. Molina&lt;/strong&gt;, Nancy Chau, Amanda Rodewald, and Filiz Garip (2022). &amp;ldquo;How to model the weather-migration link: A machine-learning approach to variable selection in the Mexico-U.S. context&amp;rdquo;. &lt;em&gt;Journal of Ethnic and Migration Studies&lt;/em&gt; [&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/1369183X.2022.2100549&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario&lt;/strong&gt;, Victor Nee, and Hakan Holm (2022), &amp;ldquo;Cooperation with strangers: Spillover of community norms&amp;rdquo;. (&lt;em&gt;Forthcoming at Organization Science&lt;/em&gt;) [&lt;a href=&#34;https://github.com/mariomolinam/cooperation_with_strangers&#34; target=&#34;_blank&#34;&gt;replication package&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario&lt;/strong&gt;, Victor Nee, and Hakan Holm (2022), &amp;ldquo;Cooperation with strangers: Spillover of community norms&amp;rdquo;. &lt;em&gt;Organization Science&lt;/em&gt; [&lt;a href=&#34;https://pubsonline.informs.org/doi/10.1287/orsc.2021.1521&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;] [&lt;a href=&#34;https://github.com/mariomolinam/cooperation_with_strangers&#34; target=&#34;_blank&#34;&gt;replication package&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Garip, Filiz and &lt;strong&gt;Mario D. Molina&lt;/strong&gt; (2021), &amp;ldquo;Network amplification&amp;rdquo;, Research Handbook on Analytical Sociology (edited by Gianluca Manzo). Edward Elgar: Massachusetts. [&lt;a href=&#34;https://www.amazon.com/Research-Handbook-Analytical-Sociology-Handbooks/dp/1789906849&#34; target=&#34;_blank&#34;&gt;Book&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Garip, Filiz and &lt;strong&gt;Mario D. Molina&lt;/strong&gt; (2021), &amp;ldquo;Network amplification&amp;rdquo;, Research Handbook on Analytical Sociology (edited by Gianluca Manzo). Edward Elgar: Massachusetts. [&lt;a href=&#34;https://www.amazon.com/Research-Handbook-Analytical-Sociology-Handbooks/dp/1789906849&#34; target=&#34;_blank&#34;&gt;book&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario D.&lt;/strong&gt;, Mauricio Bucca, &amp;amp; Michael W. Macy (2019), &amp;ldquo;It&amp;rsquo;s not just how the game is played, it&amp;rsquo;s whether you win or lose&amp;rdquo;. &lt;em&gt;Science Advances&lt;/em&gt;, vol. 5, eaau1156. [&lt;a href=&#34;https://advances.sciencemag.org/content/5/7/eaau1156.full&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;] [&lt;a href=&#34;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BCOZ6N&#34; target=&#34;_blank&#34;&gt;replication package&lt;/a&gt;].&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario D.&lt;/strong&gt;, Mauricio Bucca, &amp;amp; Michael W. Macy (2019), &amp;ldquo;It&amp;rsquo;s not just how the game is played, it&amp;rsquo;s whether you win or lose&amp;rdquo;. &lt;em&gt;Science Advances&lt;/em&gt;, vol. 5, eaau1156. [&lt;a href=&#34;https://advances.sciencemag.org/content/5/7/eaau1156.full&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;] [&lt;a href=&#34;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BCOZ6N&#34; target=&#34;_blank&#34;&gt;replication package&lt;/a&gt;]&lt;/p&gt;
 
 &lt;p&gt;&lt;font size=&#34;3&#34;&gt;(Press Coverage by &lt;a href=&#34;https://www.apnews.com/27514e41dfa4479fb304b614fb37a5af&#34; target=&#34;_blank&#34;&gt;The Associated Press&lt;/a&gt;, &lt;a href=&#34;https://www.zmescience.com/science/news-science/rigged-game-economic-inequality-18072019/&#34; target=&#34;_blank&#34;&gt;ZME Science&lt;/a&gt;, &lt;a href=&#34;https://www.newscientist.com/article/2210263-lifes-winners-think-success-was-earned-even-if-it-was-down-to-luck/&#34; target=&#34;_blank&#34;&gt;The New Scientist&lt;/a&gt;, and the &lt;a href=&#34;https://news.cornell.edu/stories/2019/07/rigged-card-game-sheds-light-perceptions-inequality&#34; target=&#34;_blank&#34;&gt;Cornell Chronicle&lt;/a&gt;).&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario&lt;/strong&gt; &amp;amp; Filiz Garip (2019), &amp;ldquo;Machine learning for sociology&amp;rdquo;, &lt;em&gt;Annual Review of Sociology&lt;/em&gt;, vol. 45. [&lt;a href=&#34;http://www.annualreviews.org/eprint/EKR6TU8SWQESETB3UI8Y/full/10.1146/annurev-soc-073117-041106&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;] [&lt;a href=&#34;https://osf.io/preprints/socarxiv/a6r9g/&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt;].&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario&lt;/strong&gt; &amp;amp; Filiz Garip (2019), &amp;ldquo;Machine learning for sociology&amp;rdquo;, &lt;em&gt;Annual Review of Sociology&lt;/em&gt;, vol. 45. [&lt;a href=&#34;http://www.annualreviews.org/eprint/EKR6TU8SWQESETB3UI8Y/full/10.1146/annurev-soc-073117-041106&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;] [&lt;a href=&#34;https://osf.io/preprints/socarxiv/a6r9g/&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario&lt;/strong&gt; (2013) &amp;ldquo;Unity between Sensibility and Understanding. The Origin of the Critical Problem&amp;rdquo; (in Spanish),  &lt;em&gt;Revista de Filosofia&lt;/em&gt;, vol. LXIX, 195-213. [&lt;a href=&#34;https://scielo.conicyt.cl/scielo.php?pid=S0718-43602013000100015&amp;amp;script=sci_arttext&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;].&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Molina, Mario&lt;/strong&gt; (2013) &amp;ldquo;Unity between Sensibility and Understanding. The Origin of the Critical Problem&amp;rdquo; (in Spanish),  &lt;em&gt;Revista de Filosofia&lt;/em&gt;, vol. LXIX, 195-213. [&lt;a href=&#34;https://scielo.conicyt.cl/scielo.php?pid=S0718-43602013000100015&amp;amp;script=sci_arttext&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
