@@ -52,5 +52,15 @@
 </description>
     </item>
     
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://mariodmolina.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariodmolina.com/cv/</guid>
+      <description>&lt;p&gt;You can download &lt;a href=&#34;https://mariodmolina.com/files/cv.pdf&#34;&gt;my CV here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
