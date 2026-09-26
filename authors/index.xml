@@ -1,28 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Authors on Mario D. Molina</title>
-    <link>https://www.mariodmolina.com/authors/</link>
-    <description>Recent content in Authors on Mario D. Molina</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    
-	    <atom:link href="https://www.mariodmolina.com/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://www.mariodmolina.com/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mariodmolina.com/authors/admin/</guid>
-      <description>&lt;p&gt;I am an assistant professor in the Social Research and Public Policy program at NYU Abu Dhabi.&lt;/p&gt;
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on Mario D. Molina</title><link>https://www.mariodmolina.com/authors/</link><description>Recent content in Authors on Mario D. Molina</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><atom:link href="https://www.mariodmolina.com/authors/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.mariodmolina.com/authors/admin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mariodmolina.com/authors/admin/</guid><description>&lt;p&gt;I am an assistant professor in the Social Research and Public Policy program at NYU Abu Dhabi.&lt;/p&gt;
 &lt;p&gt;My research lies at the interface of economic sociology, social networks, and computational social science. I broadly consider how organizational structures and network dynamics impact beliefs about unequal rewards and prosocial behaviors and the mechanisms that feed back to sustain or disrupt these social systems. In my research, I use a diverse methodological toolkit, including experiments, networks, big data, machine learning, and natural language pocessing.&lt;/p&gt;
-
-&lt;p&gt;You can see &lt;a href=&#34;https://www.mariodmolina.com/files/cv_mdm.pdf&#34; target=&#34;_blank&#34;&gt;my CV here.&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;You can see &lt;a href=&#34;https://www.mariodmolina.com/files/cv_mdm.pdf&#34; target=&#34;_blank&#34;&gt;my CV here.&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
